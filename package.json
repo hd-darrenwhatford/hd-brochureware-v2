@@ -4,8 +4,8 @@
   "description": "FED team brochureware learning",
   "main": "index.js",
   "scripts": {
-			"build": "webpack"
-		},
+  	"build": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/justtoconfirm/hd-brochureware-v2.git"
