@@ -4,7 +4,7 @@
   "description": "FED team brochureware learning",
   "main": "index.js",
   "scripts": {
-  	"build": "webpack"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
